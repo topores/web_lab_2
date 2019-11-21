@@ -1,0 +1,113 @@
+html, body, div, span,
+iframe, p, img,  form,
+table, tr, th, td, res {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 100%;
+    line-height: 1;
+    font-family: "Helvetica", monospace;
+    text-align: center;
+}
+table {
+
+}
+
+#table1,td {
+     font-family: "Helvetica", monospace;
+     font-size: 20px;
+     color: #fbf4f6;
+     text-align: center;
+     border: solid 2px #c4c4c4;
+     border-collapse: collapse;
+    margin: auto;
+ }
+
+#buttable {
+    margin-top: 20px;
+    margin: auto;
+    font-family: "Helvetica", monospace;
+    font-size: 20px;
+    color: #000000;
+    text-align: center;
+    border: solid 2px #c4c4c4;
+    border-collapse: collapse;
+}
+#head td{
+    border: solid 2px #c4c4c4;
+    border-collapse: collapse;
+    font-family: "Helvetica", monospace;
+    font-size: 22px;
+    color: #fbf4f6;
+    font-weight: bold;
+}
+
+
+th he {
+    color: #e2e2e2;
+    font-size: 120%;
+    /*font-weight: normal;*/
+}
+
+p{
+    font-weight: bold;
+}
+
+body {
+    background-color: #696969;
+}
+
+header {
+    font-family: "fantasy", monospace;
+    font-size: 40px;
+    line-height: 50px;
+    color: #dbdbdb;
+    text-align: center;
+    overflow: hidden; /*Видимость вылезших элементов*/
+    background: #2a2a2a;
+    display: block;
+    position: fixed;
+    width: 100%;
+    height: 150px;
+    /*text-align: right;*/
+}
+res{
+    color: #fbf4f6;
+    font-size: 20px;
+    line-height: 27px;
+    }
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.main {
+    font-family: "fantasy", monospace;
+    color: #fbf4f6;
+    font-size: 25px;
+    line-height: 32px;
+    text-align: center;
+    background-color: #696969;
+    margin-top: 150px;
+}
+
+.warning {
+    color: #ff797b;
+    font-size: 20px;
+}
+
+#X, #Y {
+    font-size: 25px;
+}
+
+[name="R"] {
+    font-size: 25px;
+
+}
+.button {
+    font-size: 25px;
+}
+
+
